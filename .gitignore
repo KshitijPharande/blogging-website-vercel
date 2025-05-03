@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Dist folder (Vite build output)
+dist/
+
+# Firebase credentials file
+blogging-website-mern-firebase-adminsdk-d0ult-1362504656.json
+
+# Other possible sensitive files
+.env
